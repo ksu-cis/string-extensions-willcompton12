@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using ExtentionMethods;
 
 namespace StringExtensions
 {
